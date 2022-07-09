@@ -1,4 +1,4 @@
-# justeat 呷市Eat APP圖片
+# justeat 呷市Eat 消費者端APP圖片
 
 ##  消費者端手機登入畫面
 支援第三方登入功能   
@@ -36,13 +36,20 @@
 ![已完成](https://user-images.githubusercontent.com/72512486/178098085-7a29aa68-51ed-40b1-8c90-a319e41dec4b.png)
 
 
+# justeat 呷市Eat 店家端APP圖片
 
+##  店家訂單總覽介面 
+在店家的主畫面中，設計理念是提供一個清楚、易觀看每筆訂單的介面，並在可能無法提供訂單時，可以暫停接單
+![Screenshot_20191202-164427](https://user-images.githubusercontent.com/72512486/178098405-0d53fdcd-312e-4333-8595-969a4ace190a.jpg)
+![Screenshot_20191202-164524](https://user-images.githubusercontent.com/72512486/178098412-c63afca3-1720-4402-a292-349528b3f16a.jpg)
+![Screenshot_20191202-164536](https://user-images.githubusercontent.com/72512486/178098415-da23c10c-8b48-4c05-a168-05edd824f83b.jpg)  
 
+##  餐點管理介面 
+在已上架的餐點中，提供店家一個對自家商品資料編輯的介面，並且可以進行下架或標為招牌餐點
+![Screenshot_20191202-164605](https://user-images.githubusercontent.com/72512486/178098511-4810ebb6-82a9-4871-96fe-2b87714e8535.jpg)
+![Screenshot_20191202-164610](https://user-images.githubusercontent.com/72512486/178098512-863ccfd3-f467-497c-af4f-fc02522f3978.jpg)
 
-
-
-
-
-
+# justeat 呷市Eat ER model圖
+![ER model](https://user-images.githubusercontent.com/72512486/178098539-37bebd9c-2ff0-42aa-9ae6-82613ffd96ef.jpg)
 
 
